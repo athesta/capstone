@@ -3,4 +3,5 @@ kind: Kustomization
 resources:
 - gotk-components.yaml
 - gotk-sync.yaml
-- ../../../kustomize/base/backend/express-server.yaml
+- ../../../kustomize/base/backend/express-deployment.yaml
+- ../../../kustomize/base/backend/express-service.yaml
