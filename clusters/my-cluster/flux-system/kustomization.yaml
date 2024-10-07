@@ -4,3 +4,4 @@ resources:
 - gotk-components.yaml
 - gotk-sync.yaml
 - ../../../kustomize/base/backend/express-server.yaml
+namespace: default
